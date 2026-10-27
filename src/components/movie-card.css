@@ -1,0 +1,72 @@
+.movie-card {
+  min-width: 0;
+}
+
+.poster-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 217 / 246;
+
+  overflow: hidden;
+  background-color: #dddddd;
+  border-radius: 8px;
+}
+
+.movie-poster {
+  width: 100%;
+  height: 100%;
+
+  display: block;
+  object-fit: cover;
+}
+
+.bookmark-button {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+
+  width: 23px;
+  height: 25px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.bookmark-button img {
+  width: 16px;
+  height: 18px;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+
+.bookmark-button.bookmarked {
+  background-color: #2864e8;
+  border-color: #2864e8;
+}
+
+.movie-title {
+  overflow: hidden;
+
+  margin: 6px 0 0;
+  color: #222222;
+
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.movie-date {
+  margin: 2px 0 0;
+  color: #999999;
+  font-size: 9px;
+  line-height: 1.3;
+}

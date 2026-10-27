@@ -1,0 +1,25 @@
+.movie-section {
+  min-height: calc(100vh - 105px);
+  padding: 19px 0 90px;
+  background-color: #f5f6f8;
+}
+
+.movie-section-inner {
+  width: 100%;
+  padding: 0 52px;
+}
+
+.section-title {
+  margin: 0 0 13px;
+
+  color: #202124;
+  font-size: 23px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 15px 10px;
+}

@@ -14,9 +14,12 @@ export interface SignupResponse {
     memberId: number;
     email: string;
     nickname: string;
+    createdAt: string;
   };
 }
 
 export function signup(body: SignupRequest) {
-  return apiClient.post("members", { json: body }).json<SignupResponse>();
+  return apiClient
+    .post("members/signup", { json: body })
+    .json<SignupResponse>();
 }

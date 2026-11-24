@@ -1,0 +1,11 @@
+{
+  "/(authenticated)/my-page/edit/page": "/my-page/edit",
+  "/(authenticated)/my-page/page": "/my-page",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/login/page": "/login",
+  "/movies/[movieId]/page": "/movies/[movieId]",
+  "/page": "/",
+  "/search/page": "/search",
+  "/signup/page": "/signup"
+}

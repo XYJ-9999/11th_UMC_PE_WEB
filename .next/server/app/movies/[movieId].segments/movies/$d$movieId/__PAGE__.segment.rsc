@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2b8f_6q6vg_q-.js"
+3:"/_next/static/chunks/3cvo70rl5zfxn.js"
+4:"/_next/static/chunks/0glr-3fvhprns.js"
+5:"/_next/static/chunks/0f4df99jt_7v8.js"
+6:I[28739,["$2","$3","$4","$5"],"default"]
+7:I[5247,["$2","$3","$4","$5"],"default"]
+8:I[49786,["$2","$3","$4","$5"],"default"]
+9:I[49507,["$2","$3","$4","$5"],"default"]
+a:"/_next/static/chunks/2zbmplqhazbfo.js"
+b:I[8821,["$2","$3","$4","$5","$a"],"default"]
+c:I[61793,["$2","$3","$4","$5"],"default"]
+d:"/_next/static/chunks/2dk3mb0efd4f8.js"
+e:I[1339,["$2","$3","$4","$5","$d"],"Image"]
+16:"/_next/static/chunks/38-5kyejhm24l.js"
+17:I[41226,["$2","$3","$4","$5","$16"],"default"]
+18:I[46720,["$2","$3","$4","$5","$d"],""]
+1b:"$Sreact.suspense"
+1d:I[97098,["$2","$3","$4","$5"],"OutletBoundary"]
+21:"ViewportBoundary"
+22:I[97098,["$2","$3","$4","$5"],"$21"]
+23:"MetadataBoundary"
+24:I[97098,["$2","$3","$4","$5"],"$23"]
+:HL["/_next/static/chunks/1rv8kqtq_7kir.css","style"]
+10:X
+10:C
+11:X
+11:300
+11:C
+14:X
+14:C
+20:X
+20:C
+1a:[["children",{"s":"__PAGE__","h":49312,"d":{"r":["$","$1","c",{"children":[["$","$1b",null,{"fallback":["$","main",null,{"className":"mx-auto flex w-full max-w-6xl flex-1 items-start px-4 py-12 sm:px-6","children":["$","p",null,{"role":"status","className":"rounded-xl border border-gray-200 bg-white px-6 py-5 text-gray-700","children":"영화 상세 정보를 불러오는 중이에요."}]}],"children":"$L1c"}],[["$","script","script-0",{"src":"/_next/static/chunks/2dk3mb0efd4f8.js","async":true}]],["$","$L1d",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]]}],"p":"$@1f","v":"$20","s":"$11"}}]]
+15:[["children",{"s":{"n":"movieId","t":"d","k":null,"s":[]},"h":49248,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$17","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/38-5kyejhm24l.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"className":"mx-auto w-full max-w-6xl flex-1 px-4 py-12 sm:px-6","children":[["$","p",null,{"role":"alert","className":"rounded-xl border border-gray-200 bg-white px-6 py-5 text-gray-700","children":"영화를 찾을 수 없어요."}],["$","$L18",null,{"href":"/","className":"mt-4 inline-block text-sm font-semibold text-indigo-600 hover:text-indigo-800","children":"← 영화 목록으로"}]]}],[]]}]]}],"p":"$@19","v":"$14","s":"$11"},"c":"$Q1a"}]]
+12:[["children",{"s":"movies","h":49248,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"p":"$@13","v":"$14","s":"$11"},"c":"$Q15"}]]
+27:X
+27:C
+2a:X
+2a:C
+0:{"t":{"t":{"s":"","h":49232,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1rv8kqtq_7kir.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2b8f_6q6vg_q-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3cvo70rl5zfxn.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0glr-3fvhprns.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/0f4df99jt_7v8.js","async":true}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"className":"MXp6vq_variable flex min-h-screen flex-col bg-[#f5f6f8]","children":[["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","div",null,{"className":"flex flex-1 flex-col","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2zbmplqhazbfo.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"className":"mx-auto w-full max-w-6xl flex-1 px-4 py-12 sm:px-6","children":["$","p",null,{"role":"alert","className":"rounded-xl border border-gray-200 bg-white px-6 py-5 text-gray-700","children":"페이지를 찾을 수 없어요."}]}],[]]}]}]]}],["$","footer",null,{"className":"border-t border-gray-200 bg-white","children":["$","div",null,{"className":"mx-auto flex min-h-12 max-w-6xl items-center justify-end gap-2 px-4 text-[10px] text-gray-500 sm:px-6 sm:text-xs","children":[["$","$Le",null,{"src":"/images/logos/tmdb-logo.svg","alt":"TMDB","width":48,"height":12,"unoptimized":true,"className":"h-3 w-auto"}],["$","span",null,{"children":"This product uses the TMDB API but is not endorsed or certified by TMDB."}]]}]}]]}]}]]}],"p":"$@f","v":"$10","s":"$11"},"c":"$Q12"},"h":{"r":["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L24",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L25"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@26","v":"$27","s":"$11"}},"a":"$@28","u":"$@29","b":"4YVEyzCvWcylRjEmQ_MvJ","r":"$2a"}
+29:false
+28:null
+19:"$undefined"
+13:"$undefined"
+f:"$undefined"

@@ -1,0 +1,3 @@
+module.exports=[34169,a=>{"use strict";var b=a.i(82591),c=a.i(11234);a.s(["default",0,function({children:a}){return(0,b.jsx)(c.default,{children:a})}])},16548,function(a){a.n(a.i(34169))},12895,a=>{"use strict";let b=(0,a.i(63113).registerClientReference)(function(){throw Error("Attempted to call the default export of [project]/components/auth/auth-guard.tsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.")},"[project]/components/auth/auth-guard.tsx","default");a.s(["default",0,b])},11234,a=>{"use strict";var b=a.i(12895);a.n(b)}];
+
+//# sourceMappingURL=_0sfhw6ndrpxda._.js.map

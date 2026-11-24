@@ -1,0 +1,3 @@
+module.exports=[66188,a=>{"use strict";var b=a.i(82591),c=a.i(25393);a.s(["default",0,function(){return(0,b.jsx)("main",{className:"mx-auto w-full max-w-6xl flex-1 px-4 py-12 sm:px-6",children:(0,b.jsx)(c.f,{role:"alert",children:"페이지를 찾을 수 없어요."})})}])},2894,function(a){a.n(a.i(66188))},25393,a=>{"use strict";var b=a.i(82591);a.s(["f",0,function({role:a="status",children:c}){return(0,b.jsx)("p",{role:a,className:"rounded-xl border border-gray-200 bg-white px-6 py-5 text-gray-700",children:c})}])}];
+
+//# sourceMappingURL=_1lc3ncs4tbd64._.js.map
